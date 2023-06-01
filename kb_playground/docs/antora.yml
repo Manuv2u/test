@@ -1,0 +1,9 @@
+name: Documentation # all files will save using this name (test)
+title: contents  #This is web page title (content in web page)
+version: 0.1 #define version (public/test/0.1/all files will save here repo path)
+asciidoc:
+  attributes:
+    source-language: asciidoc@
+    table-caption: false
+nav:
+- modules/ROOT/nav.adoc
